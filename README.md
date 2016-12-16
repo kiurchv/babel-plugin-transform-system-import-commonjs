@@ -4,7 +4,7 @@
 
 ## Deprecation notice
 
-** Since [import() proposal](https://github.com/tc39/proposal-dynamic-import) was accepted, `System.import` function now is obsolete and this plugin is not recommended to use in new projects. Please use  `import()` function with [babel-plugin-transform-import-commonjs](https://www.npmjs.com/package/babel-plugin-transform-import-commonjs) instead. **
+**Since [import() proposal](https://github.com/tc39/proposal-dynamic-import) was accepted, `System.import` function now is obsolete and this plugin is not recommended to use in new projects. Please use  `import()` function with [babel-plugin-transform-import-commonjs](https://www.npmjs.com/package/babel-plugin-transform-import-commonjs) instead.**
 
 
 ## How this works
